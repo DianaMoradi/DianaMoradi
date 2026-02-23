@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Diana! 👋
+
+I am a Biology major with a minor in Information Science and Technology at Temple University.
+I am interested in learning how coding, data science, and machine learning can be used in scientific research and medicine.
+One fun fact about me is that I like watching thriller and horro movies.
 
 <!--
 **DianaMoradi/DianaMoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
